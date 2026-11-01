@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Adi_Lavi_App</string>
-    <string name="welcome_message">ברוכים הבאים!</string>
-    <string name="click_here">לחץ כאן</string>
+    <string name="israel_title">להיות ישראלי</string>
+    <string name="israel_desc">עבורי להיות ישראלי זה ערבות הדדית, שמחה, ואהבת הארץ והאנשים שבה.</string>
+    <string name="israel_btn">עם ישראל חי</string>
+    <string name="israel_img_desc">תמונה של ישראל</string>
 </resources>
